@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgKOZZK55s6IeMjj4jfQ0wh7leZIhm+Mofw+IBmudjyZK4L/ATnSm1f133RnM1vKvKH5FcjWiiZszWNhd3a7UA==",
+  "success": true,
+  "projectFilePath": "D:\\Narde\\Visual Studio\\Projects\\Transferencias Bancarias\\Transferencias Bancarias\\Transferencias Bancarias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Narde\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

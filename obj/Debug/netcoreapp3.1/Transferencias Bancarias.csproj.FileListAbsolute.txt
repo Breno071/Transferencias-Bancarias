@@ -1,0 +1,14 @@
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.exe
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.deps.json
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.runtimeconfig.json
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.runtimeconfig.dev.json
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.dll
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\bin\Debug\netcoreapp3.1\Transferencias Bancarias.pdb
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.csproj.AssemblyReference.cache
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.AssemblyInfoInputs.cache
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.AssemblyInfo.cs
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.csproj.CoreCompileInputs.cache
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.dll
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.pdb
+D:\Narde\Visual Studio\Projects\Transferencias Bancarias\Transferencias Bancarias\obj\Debug\netcoreapp3.1\Transferencias Bancarias.genruntimeconfig.cache
